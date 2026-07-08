@@ -18,7 +18,7 @@ int main() {
         cout << "sat";
     else if (num == 7)
         cout << "sun";
-    else
+    else 
     cout<<"Enter a Valid Day";
 
 }

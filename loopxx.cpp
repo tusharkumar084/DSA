@@ -9,5 +9,5 @@ int main(){
     cin>> c;
     for (int i = 1 ; i< num ; i++){
         cout<<c<<endl;   
- }
+  }
 }    
