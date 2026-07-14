@@ -5,7 +5,7 @@ int main(){
     int num , n ,  pow ;
     cout<< "Enter number :" ;
     cin>>n;
-     num=n;
+    num=n;
     cout<< "Enter power:" ;
     cin>>pow;
 
@@ -14,6 +14,7 @@ int main(){
     {
         num=num*i;
     }
+
     cout<<num;
 
 }
