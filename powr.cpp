@@ -9,7 +9,7 @@ int main(){
     cin>>pow;
 
     num=n;
-    for (int i = 1; i < pow; i+=1)
+    for (int i = 1; i < pow ; i+=1)
     {
         num=num*i;
     }

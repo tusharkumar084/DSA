@@ -6,7 +6,7 @@ int main(){
     cin>>c;
     for (char i = 'a'; i <= c ; i=i+1)
     {
-        cout<< i<<" ";
+        cout<< i <<" ";
     }
     
 }
